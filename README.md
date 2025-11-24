@@ -54,7 +54,7 @@ Open index1.html in a browser or go to localhost/path-to-your-folder/index1.html
 Navigate through the menu to explore features: Patient registration, department info, diseases, etc.
 
 Author
-Siddhant Pradhan
+T Mohammed musthaq
 
 Contact: 23691a05b2@mits.ac.in
 
